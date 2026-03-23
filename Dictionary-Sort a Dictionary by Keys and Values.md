@@ -37,7 +37,7 @@ sort=dict(sorted(data.items()))
 print("Keys and Values sorted in alphabetical order by the key")
 for key, value in sort.items():
     print(f"({key}, {value}) ",end="")
-    ```
+```
 
 ## Sample Output
 
